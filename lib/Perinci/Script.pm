@@ -17,6 +17,7 @@ from CLI to CGI/FCGI/PSGI.
      Perinci::Script::CLI::Lite        (old name: Perinci::CmdLine::Lite)
      Perinci::Script::CLI::Heavy       (old name: Perinci::CmdLine::Classic)
      Perinci::Script::CLI::HTMLForm    for scripts invoked from the command-line but opens browser and presents the UI as HTML form. runs HTTP server locally.
+   Perinci::Script::CLI::Inline        (old name: Perinci::CmdLine::Inline)
    Perinci::Script::CLI::Any           (old name: Perinci::CmdLine::Any)
    Perinci::Script::CLI::CUI
 
